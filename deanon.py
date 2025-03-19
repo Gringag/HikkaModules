@@ -9,7 +9,7 @@
 # Author: @icansuck
 # Commands: gb
 # scope: hikka_only
-# meta developer: @codrago_m
+# meta developer: @icansuck
 # meta banner: https://mods.codrago.top/banners/DoxTool.png
 # meta pic: https://0x0.st/s/QeZGoQSDvJ2RILRMUOjzfg/8KPc.webp
 # ---------------------------------------------------------------------------------
